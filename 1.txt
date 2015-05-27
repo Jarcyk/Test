@@ -17,6 +17,7 @@ for (int i=0,ilosc=0;i<size;i++)
 		if (string[i]==znak){ilosc++;}
 	  }
 cout<<"Znakow jest "<<ilosc;
+//testowy komentarz
 }
 
 
